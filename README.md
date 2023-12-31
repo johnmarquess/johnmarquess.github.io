@@ -1,2 +1,2 @@
-# johnmarquess..github.io
+# Marquess.me
 A github pages site
