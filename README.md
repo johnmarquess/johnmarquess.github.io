@@ -1,2 +1,2 @@
 # johnmarquess..github.io
-A githib pages site
+A github pages site
