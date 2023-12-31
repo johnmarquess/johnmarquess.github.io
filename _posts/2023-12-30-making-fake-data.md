@@ -2,7 +2,7 @@
 layout: single
 title:  "Generating fake user profiles using the python Faker class"
 date: 2023-12-30 23:15:00 
-tags: python Faker
+categories: python Faker
 excerpt: "This post describes how to use the python Faker that generates fake data and is useful for testing purposes when you need to use dummy data."
 ---
 
