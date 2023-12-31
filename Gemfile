@@ -10,12 +10,8 @@ source "https://rubygems.org"
 
 # Remove the standard install for Jekyll so github pages can be used.
 # gem "jekyll", "~> 4.3.3"
-
-gem "minimal-mistakes-jekyll"
-
-
 gem 'github-pages', '~> 228', group: :jekyll_plugins
-
+gem "jekyll-include-cache", group: :jekyll_plugins
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 # gem "minima", "~> 2.5"
@@ -25,7 +21,6 @@ gem 'github-pages', '~> 228', group: :jekyll_plugins
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
-  gem "jekyll-include-cache", "~> 1.0"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
