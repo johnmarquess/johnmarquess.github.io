@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Connecting to openAI with python with the API"
-date: 2024-01-01 04:00:00 +1000
+date: 2024-01-01 04:00:00
 categories: python OpenAI
 excerpt: "This post describes how to use the OpenAI Python API to build AI applications. We will cover setting up your OpenAI account and API key"
 ---
