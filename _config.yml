@@ -54,7 +54,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: false 
+      author_profile: true 
       read_time: true
       comments: true
       share: true
@@ -66,4 +66,31 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: false
+      author_profile: true
+
+# Site Author
+author:
+  name             : "John Marquess"
+  # avatar           : "/assets/images/profile.jpg"
+  location         : "Brisbane, Australia"
+  email            :
+  links:
+    - label: "Email"
+      icon: "fas fa-duotone fa-envelope"
+      url: "mailto:mail@marquess.me"
+
+    - label: "Website"
+      icon: "fas fa-fw fa-globe"
+      url: "https://johnmarquess.github.io"
+
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/john-marquess-13bbaa264/"
+
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/johnmarquess"
+    
+    - label: "Stackoverflow"
+      icon: "fab fa-fw fa-stack-overflow"
+      url: "https://stackoverflow.com/users/390388/john"
