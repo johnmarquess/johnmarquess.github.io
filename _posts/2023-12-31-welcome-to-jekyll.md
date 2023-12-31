@@ -1,6 +1,6 @@
 ---
 title: "Welcome to Jekyll!"
-date: 2023-12-31 23:15:00 +1000
+date: 2023-12-31 23:15:00 
 categories:
   - blog
 tags:
